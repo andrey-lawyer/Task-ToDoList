@@ -1,0 +1,15 @@
+.table {
+  display: block;
+
+  border-collapse: collapse;
+}
+.title_lines {
+  background-color: rgb(81, 160, 172);
+
+  color: white;
+}
+.title_cells {
+  padding-left: 20px;
+  padding-right: 20px;
+  outline: solid 1px rgb(232, 229, 229);
+}

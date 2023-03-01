@@ -1,0 +1,8 @@
+.cells {
+  padding: 10px;
+  outline: solid 1px rgb(195, 192, 192);
+  margin: 0;
+  width: 100px;
+  text-align: center;
+  cursor: pointer;
+}
